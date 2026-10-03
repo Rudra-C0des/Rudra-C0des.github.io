@@ -1,0 +1,18 @@
+remote_theme: Rudra-C0des/shallow-nest
+plugins:
+  - jekyll-remote-theme
+
+title: Rudra Patel
+name: Rudra Patel
+author: Rudra Patel
+tagline: Every journey starts with a single step into the dark.
+
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Experience
+    url: /experience/
+  - title: Contact
+    url: /contact/
