@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Experience
-permalink: /experience/
 ---
 ### Instructor, Mathenasium
 *Sept 2026 – Present*
