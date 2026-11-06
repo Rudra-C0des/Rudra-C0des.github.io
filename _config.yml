@@ -5,7 +5,7 @@ plugins:
 title: Rudra Patel
 name: Rudra Patel
 author: Rudra Patel
-tagline: Every journey starts with a single step into the dark.
+# tagline: Every journey starts with a single step into the dark.
 
 nav:
   - title: Home

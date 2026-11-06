@@ -4,18 +4,16 @@ title: Home
 ---
 # About
 
-I am an undergraduate Computer Science student at the University of Alberta interested in artificial intelligence, machine learning, and robotics. I enjoy building systems that combine software, computation, and intelligent decision-making to solve real-world problems.
+I’m a Computer Science student at the University of Alberta, and I have 47 browser tabs open about things I don’t fully understand yet.
 
-## Interests
-Artificial Intelligence: Machine learning, deep learning, reinforcement learning, and intelligent systems.
+I enjoy looking at difficult problems I can’t solve and thinking, “maybe I can figure this out.” Sometimes I do. Most of the time, I end up with more questions than answers. I like understanding how things work by experimenting and occasionally breaking them. Lately, I’ve been especially interested in how machines learn and how computer systems can be broken and protected.
 
-Robotics: Robot perception, control, motion planning, and autonomous systems.
+I try to keep this quote in mind:
+>
+> *“Everything is simpler than you think and at the same time more complex than you imagine.”*
+>
+> — Goethe
 
-Automation: Autonomous systems and AI-driven solutions for real-world environments.
-
-Computer Vision: Image processing, visual perception, object detection, and 3D understanding.
-
-Machine Learning: Neural networks, representation learning, optimization, and generative models.
 
 
 
