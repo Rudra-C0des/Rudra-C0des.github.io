@@ -5,6 +5,7 @@ title: Home
 # About
 
 **Looking for Summer 2027 internships in security and machine learning.**  
+[Resume (PDF)](/assets/resume.pdf)
 
 I’m a Computer Science student at the University of Alberta, and I have 47 browser tabs open about things I don’t fully understand yet.
 
